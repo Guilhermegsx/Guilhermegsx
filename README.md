@@ -1,7 +1,7 @@
 Olá, sou Guilherme Gonçalves ! 👋🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-430398230/)
 
-![Guilhermegsx GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark]
+![Guilhermegsx GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark)
 
 Sobre Mim
 Estou estudando Engenharia da computação atualmente estou no Oitavo semestre. Tenho interesse em desenvolvimento web e programação, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
@@ -23,3 +23,4 @@ Projetos
 Contato
 E-mail: Guilhermesan077@gmail.com
 -->
+
