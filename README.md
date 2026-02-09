@@ -18,7 +18,7 @@ Formado em Engenharia da Computação. Atualmente focado em **Análise de Dados 
 ---
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-3b109b183/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-430398230/)
 
 
 ### Projetos
