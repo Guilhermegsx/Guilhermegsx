@@ -5,7 +5,7 @@
 ![Guilhermegsx GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark)
 
 ### Sobre Mim
-Estou estudando Engenharia da computação atualmente estou no Oitavo semestre. Tenho interesse em desenvolvimento web e programação, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Formado em Engenharia da computação. Tenho interesse em desenvolvimento web e programação, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 ### Tecnologias que eu utilizo
 <div style="display: inline_block"><br/>
@@ -25,6 +25,7 @@ Estou estudando Engenharia da computação atualmente estou no Oitavo semestre. 
 Contato
 E-mail: Guilhermesan077@gmail.com
 -->
+
 
 
 
