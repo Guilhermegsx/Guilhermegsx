@@ -5,15 +5,17 @@
 ![Guilhermegsx GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark)
 
 ### Sobre Mim
-Formado em Engenharia da computação. Tenho interesse em desenvolvimento web e programação, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Formado em Engenharia da Computação. Atualmente focado em Análise de Dados e Automação de Processos (RPA). Desenvolvo soluções para otimização de estoque e modelagem de bancos de dados relacionais (SQL), unindo a lógica da engenharia com a eficiência da automação em Python.
 
 ### Tecnologias que eu utilizo
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### Tecnologias que eu utilizo
+<div style="display: inline_block">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 
@@ -25,6 +27,7 @@ Formado em Engenharia da computação. Tenho interesse em desenvolvimento web e 
 Contato
 E-mail: Guilhermesan077@gmail.com
 -->
+
 
 
 
