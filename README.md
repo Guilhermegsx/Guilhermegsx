@@ -5,9 +5,10 @@
 ![Guilhermegsx GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark)
 
 ### Sobre Mim
-Formado em Engenharia da Computação. Atualmente focado em Análise de Dados e Automação de Processos (RPA). Desenvolvo soluções para otimização de estoque e modelagem de bancos de dados relacionais (SQL), unindo a lógica da engenharia com a eficiência da automação em Python.
+Formado em Engenharia da Computação. Atualmente focado em **Análise de Dados e Automação de Processos (RPA)**. Desenvolvo soluções para otimização de estoque e modelagem de bancos de dados relacionais (SQL), unindo a lógica da engenharia com a eficiência da automação em Python.
 
-### Tecnologias que eu utilizo
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark)
+
 ### Tecnologias que eu utilizo
 <div style="display: inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
