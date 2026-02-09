@@ -25,7 +25,7 @@
 
 
 ### Projetos
-[Projeto 1](https://github.com/Guilhermegsx/Inventory_System) 
+[Projeto 1🏢 Sistema de Endereçamento Logístico (CBA)](https://github.com/Guilhermegsx/Inventory_System) 
 📊 Sistema de Endereçamento Logístico (CBA)
 Este projeto consiste na modelagem e estruturação de um banco de dados relacional para o gerenciamento de endereçamento físico em armazéns. O foco principal é a organização lógica de posições de estoque utilizando a metodologia de Corredor, Coluna e Nível.
 
@@ -41,8 +41,9 @@ Preparado para integração com scripts de automação (RPA) em Python para atua
 <!-- - [Projeto 2](link-do-repositorio) - Descrição breve do projeto. -->
 
 
-###Contato
+### Contato
 E-mail: Guilhermesan077@gmail.com
+
 
 
 
