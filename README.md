@@ -1,6 +1,9 @@
 # Olá, eu sou o Guilherme! 👋
 
-Formado em Engenharia da Computação. Atualmente focado em **Análise de Dados e Automação de Processos (RPA)**. Desenvolvo soluções para otimização de estoque e modelagem de bancos de dados relacionais (SQL), unindo a lógica da engenharia com a eficiência da automação em Python.
+- 🎓 **Engenheiro da Computação**
+- 📊 **Foco:** Análise de Dados e Modelagem SQL
+- 🤖 **RPA & Automação:** Desenvolvimento de scripts em Python para otimização de processos.
+- 🛠️ **Projetos:** Estruturação de sistemas de endereçamento de estoque e fluxos automatizados.
 
 ### 📊 Minhas Estatísticas
 ![Estatísticas do Guilherme](https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=tokyonight&count_private=true)
@@ -25,10 +28,9 @@ Formado em Engenharia da Computação. Atualmente focado em **Análise de Dados 
 <!-- - [Projeto 1](link-do-repositorio) - Descrição breve do projeto. -->
 <!-- - [Projeto 2](link-do-repositorio) - Descrição breve do projeto. -->
 
-<!--
+
 Contato
 E-mail: Guilhermesan077@gmail.com
--->
 
 
 
