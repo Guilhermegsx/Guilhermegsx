@@ -1,5 +1,6 @@
 # Olá, eu sou o Guilherme! 👋
 
+#Sobre mim
 Formado em Engenharia da Computação. Atualmente focado em **Análise de Dados e Automação de Processos (RPA)**. Desenvolvo soluções para otimização de estoque e modelagem de bancos de dados relacionais (SQL), unindo a lógica da engenharia com a eficiência da automação em Python.
 
 ### 📊 Minhas Estatísticas
@@ -29,6 +30,7 @@ Formado em Engenharia da Computação. Atualmente focado em **Análise de Dados 
 Contato
 E-mail: Guilhermesan077@gmail.com
 -->
+
 
 
 
