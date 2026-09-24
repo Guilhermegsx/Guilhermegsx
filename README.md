@@ -1,6 +1,5 @@
 # Olá, eu sou o Guilherme! 👋
 
-# Olá, eu sou o Guilherme! 👋
 
 - 🎓 **Engenheiro da Computação**
 - 🤖 **Foco:** Inteligência Artificial Aplicada, Automação (RPA) e Engenharia de Dados
@@ -8,12 +7,8 @@
 - 🛠️ **Objetivo:** Criar soluções inteligentes que unem manipulação de dados, bancos estruturados e IA para otimização de processos.
 
 
-- 🎓 **Engenheiro da Computação**
-- 📊 **Foco:** Análise de Dados e Modelagem SQL
-- 🤖 **RPA & Automação:** Desenvolvimento de scripts em Python para otimização de processos.
-- 🛠️ **Projetos:** Estruturação de sistemas de endereçamento de estoque e fluxos automatizados.
-
 ### 🛠️ Tecnologias e Ferramentas
+
 
 **Linguagens & Dados:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
