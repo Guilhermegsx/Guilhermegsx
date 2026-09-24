@@ -30,6 +30,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-430398230/)
 
 
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermegsx&show_icons=true&theme=dark" alt="Guilherme GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermegsx&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+</p>
+
+
 ### Projetos
 [🏢 Sistema de Endereçamento Logístico (CBA)](https://github.com/Guilhermegsx/Inventory_System) 
 Este projeto consiste na modelagem e estruturação de um banco de dados relacional para o gerenciamento de endereçamento físico em armazéns. O foco principal é a organização lógica de posições de estoque utilizando a metodologia de Corredor, Coluna e Nível.
