@@ -48,7 +48,7 @@ Preparado para integração com scripts de automação (RPA) em Python para atua
 
 
 ### Contato
-E-mail: Guilhermesan077@gmail.com
+E-mail: guilhermesan077@gmail.com
 
 
 
